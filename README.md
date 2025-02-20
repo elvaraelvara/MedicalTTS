@@ -1,11 +1,30 @@
-## How to Run 
+# 🏥 TalkCare - AI-Powered Medical Assistance  
 
-in /client : `npm run dev`
+## 🚀 How to Run  
 
-in /server : `npm run start`
+### **Client**  
+```sh
+cd client  
+npm run dev  
+```  
 
-## About This Website
-TalkCare is an innovative website that leverages speech-to-text technology and machine learning to provide accurate medication recommendations based on user symptoms. By simply voicing their health complaints, users can receive personalized suggestions for suitable medications, making the process more convenient and efficient. The platform also includes a sorting feature that allows users to filter medications based on rating and price, helping them make informed decisions. Additionally, TalkCare offers a hospital locator feature, enabling users to find the nearest healthcare facilities based on their current location, ensuring quick access to medical assistance when needed.
+### **Server**  
+```sh
+cd server  
+npm run start  
+```  
+
+## 🌟 About This Website  
+**TalkCare** is an innovative platform that leverages **speech-to-text technology** and **machine learning** to provide accurate **medication recommendations** based on user symptoms. Users can simply **voice their health complaints**, and the system will analyze the input to suggest the most suitable medications, making the process **more convenient and efficient**.  
+
+### 🔹 Key Features  
+✅ **AI-Powered Medication Suggestions** – Provides precise recommendations based on symptoms.  
+✅ **Speech-to-Text Input** – Users can describe their symptoms verbally for a seamless experience.  
+✅ **Smart Medication Sorting** – Filter medications by **rating, price, or effectiveness**.  
+✅ **Hospital Locator** – Quickly find the nearest **healthcare facilities** based on location.  
+
+This solution aims to **enhance accessibility to healthcare** by combining AI-driven recommendations with user-friendly features, ensuring a smooth and informed medical experience.  
+eeded.
 
 
 ## Documentation 
